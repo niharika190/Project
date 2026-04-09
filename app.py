@@ -1,7 +1,7 @@
 import streamlit as st
 from agents import smart_router
 
-st.title("AI Personal Growth OS")
+st.title("TASKSENSE")
 
 user_input = st.text_area("Enter your input")
 
