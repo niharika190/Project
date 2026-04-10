@@ -34,6 +34,7 @@ Using **Agentic AI**, the system assigns tasks to specialized agents.
 
 * Classifies user intent
 * Routes request to the appropriate agent
+<img width="433" height="611" alt="Screenshot 2026-04-09 200210" src="https://github.com/user-attachments/assets/d6b02012-3f10-4744-8785-566685adbb2a" />
 
 ---
 
